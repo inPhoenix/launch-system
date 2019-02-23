@@ -28,6 +28,7 @@ A browser will be open at http://localhost:3000
 - [x] ExpressJs
 - [x] React Fiber
 - [x] Semantic UI
+- [x] [LaunchLibrary](https://www.launchlibrary.net)
 
 ### Project Structure
 
