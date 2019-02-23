@@ -4,7 +4,7 @@ import Header from '../features/Header'
 import { Icon, Menu, Sidebar } from 'semantic-ui-react'
 import { animateScroll as scroll } from 'react-scroll'
 
-const GITHUB_USER = ''
+const GITHUB_USER = 'alepoletto'
 const GITHUB_LINK = `https://www.github.com/${GITHUB_USER}`
 
 class Homepage extends Component {
